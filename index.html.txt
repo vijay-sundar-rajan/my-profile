@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<Head>
+<TITLE> Vijay Sundar Rajan </TITLE>
+</Head>
+
+<Body>
+<h1> Vijay Sundar Rajan </h1>
+
+	<img src= "VJ unclear.jpeg" alt="Vijay Sundar Rajan ">
+
+<p1> Hi, I'm Vijay Sundar Rajan.</p1>
+
+<p2> Interests: Philosophy, Mathematics, Linguistics, Economics, Physics, Genetic Engineering, Psychology, Organic Chemistry</p2>
+
+<p3> Education: ESSEC Business School (Year 1), Hiranandani Foundation School (graduated).</p3>
+
+<p4> Hobbies: Writing stories, composing music, designing architecture.</p4>
+
+<a href="https://www.linkedin.com/in/vijay-sundar-rajan-b9968219a/"> Check me out on Linkedin!</a>
+
+<link rel="stylesheet"type="text/css"href="style.css">
+</Body>
+</html>
